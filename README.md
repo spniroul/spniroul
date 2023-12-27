@@ -6,7 +6,7 @@ Economics. Finance. Statistics. Analytics
 
 * 🌍  I'm based in Kathmandu, Nepal
 * ✉️  You can contact me at [soujanniroula[at]gmail.com](mailto:soujanniroula@gmail.com)
-* 🧠  I'm learning Machine Learning Specialization, Web-Scraping
+* 🧠  I'm learning ML Specialization, Web-Scraping, Market Analytics
 * 🤝  I'm open to collaborating on Data Science for Social Science
 
 ### Skills
