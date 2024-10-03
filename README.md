@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Economics. Finance. Statistics. Analytics
 -----------------------------------------
 
-* 🌍  I'm based in Kathmandu, Nepal
+* 🌍  I'm based in Champaign, IL
 * ✉️  You can contact me at [soujanniroula[at]gmail.com](mailto:soujanniroula@gmail.com)
 * 🧠  I'm learning ML Specialization, Web-Scraping, Market Analytics
 * 🤝  I'm open to collaborating on Data Science for Social Science
