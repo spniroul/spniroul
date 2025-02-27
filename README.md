@@ -1,14 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Soujanya Niroula
 ========================================================================================================================================
 
-Economics. Finance. Statistics. Analytics
+Economics. Statistics. ML. Analytics
 -----------------------------------------
 
 * 🌍  I'm based in Champaign, IL
-* ✉️  You can contact me at [soujanniroula[at]gmail.com](mailto:soujanniroula@gmail.com)
-* 🧠  I'm learning ML Specialization, Web-Scraping, Market Analytics
-* 🤝  I'm open to collaborating on Data Science for Social Science
-
+* ✉️  You can contact me at [spniroul[at]gmail.com](mailto:spniroul@gmail.com)
+* 🧠  I'm learning in ML Specialization, Deep Learning, Statistical Modeling
+* 🤝  I'm open to collaborating on Data Science and AI/ML
 ### Skills
 
 
